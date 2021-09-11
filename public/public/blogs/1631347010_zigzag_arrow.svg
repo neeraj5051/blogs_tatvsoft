@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.914" height="10.41" viewBox="0 0 22.914 10.41">
+    <g>
+        <g>
+            <g>
+                <g>
+                    <path fill="#25a32a" d="M4 1.41l9 9 7-7V8h2V0h-8v2h4.59L13 7.59 5.41 0z" transform="translate(1.414) translate(0 0) translate(-0.5 0)"/>
+                    <path fill="none" stroke="#25a32a" stroke-linecap="square" stroke-width="2px" d="M0 5L5 0" transform="translate(1.414) translate(0 0) translate(0 1.5)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
